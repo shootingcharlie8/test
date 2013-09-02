@@ -1,0 +1,2 @@
+Subject:Hourly pic
+ATTFILE=/home/pi/ssh.sh
